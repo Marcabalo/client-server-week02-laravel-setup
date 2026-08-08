@@ -196,13 +196,14 @@ A GitHub Personal Access Token was created and used for authentication when push
 
 ![Hello Laravel Homepage](screenshots/hello-laravel-homepage.png)
 
-## Reflection
+## Documentation
 
-This activity helped me understand the basic process of setting up a Laravel development environment and creating my first Laravel application. Before starting the activity, I understood that PHP was used for server-side programming, but I had less practical experience with the tools needed to develop a complete PHP web application. Through this activity, I learned how PHP, Composer, Laravel, MySQL, Git, Visual Studio Code, and GitHub work together in a development environment.
-One of the most useful things I learned was how to install and verify each development tool using the Terminal. I also learned that installing a program does not always mean that the Terminal can immediately recognize its command. I experienced this when Homebrew initially returned a “command not found” error and when the Laravel command was not recognized after installing the Laravel Installer. I learned how the PATH environment variable allows the Terminal to locate installed programs. I also learned how to correct configuration problems in the .zshrc file.
-Another challenge was learning the basic Git workflow. I learned how to initialize a Git repository, stage files, create a commit, connect a local project to a GitHub repository, and push the project online. This gave me a better understanding of version control and why it is important when developing software.
-Laravel is important in client-server development because it provides a structured framework for building server-side web applications. Instead of creating every feature from the beginning, developers can use Laravel's routing, views, database tools, and other built-in features. This makes development more organized and maintainable.
-This knowledge will help me in future software development projects because I now understand the basic workflow of creating a web application, running it locally, managing its source code with Git, and publishing it through GitHub. The experience also gave me more confidence in using the Terminal and development tools. As I continue learning, I can build more advanced Laravel applications that communicate with databases and provide dynamic services to users.
+- REFLECTION
+[View Project Documentation](documentation/Reflection.pdf)
+
+- REFERENCES
+[View Project Documentation](documentation/References.pdf)
+
 
 ## License
 
