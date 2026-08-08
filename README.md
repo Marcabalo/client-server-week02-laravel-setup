@@ -54,21 +54,17 @@ At the end of this activity, the following objectives were achieved:
 10. Push the Laravel project to a GitHub repository.
 
 ## Development Environment
-![PHP Version](screenshots/phpversion.png)
+## 4. Development Environment
 
-![Composer Version](screenshots/composer-version.png)
-
-![Laravel Version](screenshots/laravel-version.png)
-
-![Git Version](screenshots/git-version.png)
-
-![MySQL Version](screenshots/mysql-version.png)
-
-![Visual Studio Code](screenshots/vscode.png)
-
-![Laravel Artisan Serve](screenshots/artisan-serve.png)
-
-![Hello Laravel Homepage](screenshots/hello-laravel-homepage.png)
+| Software | Version |
+|---|---|
+| Operating System | macOS |
+| PHP | 8.5.9 |
+| Laravel Installer | 5.31.1 |
+| Composer | 2.10.2 |
+| Git | 2.39.5 (Apple Git-154) |
+| MySQL | 9.6.0 |
+| Visual Studio Code | 1.111.0 (Universal) |
 
 ##
 
