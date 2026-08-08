@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Hello Laravel – Client-Server Technologies
+## PROJECT: Hello Laravel – Client-Server Technologies
 
-## 
+
 
 ## About Laravel
 
@@ -33,29 +33,44 @@ In addition, [Laracasts](https://laracasts.com) contains thousands of video tuto
 
 You can also watch bite-sized lessons with real-world projects on [Laravel Learn](https://laravel.com/learn), where you will be guided through building a Laravel application from scratch while learning PHP fundamentals.
 
-## Agentic Development
+## Client-Server Technologies
+is important because it provides the foundation for understanding how applications communicate between clients, such as web browsers, and servers that process requests and provide responses. Understanding this relationship is essential for developing modern web applications.
 
-Laravel's predictable structure and conventions make it ideal for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to supercharge your AI workflow:
+## The purpose of this project
+ is to create a first Laravel application, configure the required development environment, run the application locally, customize its homepage, and publish the project to GitHub. This activity also provides hands-on experience with PHP, Composer, Laravel, Git, MySQL, Visual Studio Code, and GitHub.
 
-```bash
-composer require laravel/boost --dev
+## OBJECTIVES
 
-php artisan boost:install
-```
+At the end of this activity, the following objectives were achieved:
+1. Install and verify PHP on macOS.
+2. Install and verify Composer as the PHP dependency manager.
+3. Install and verify the Laravel Installer.
+4. Install and verify Git for version control.
+5. Install and verify MySQL.
+6. Set up Visual Studio Code as the development environment.
+7. Create and run a Laravel application using php artisan serve.
+8. Customize the Laravel homepage with student information and the current date.
+9. Initialize Git and create the first project commit.
+10. Push the Laravel project to a GitHub repository.
 
-Boost provides your agent 15+ tools and skills that help agents build Laravel applications while following best practices.
+## Development Environment
+![PHP Version](screenshots/phpversion.png)
 
-## Contributing
+![Composer Version](screenshots/composer-version.png)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![Laravel Version](screenshots/laravel-version.png)
 
-## Code of Conduct
+![Git Version](screenshots/git-version.png)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+![MySQL Version](screenshots/mysql-version.png)
 
-## Security Vulnerabilities
+![Visual Studio Code](screenshots/vscode.png)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+![Laravel Artisan Serve](screenshots/artisan-serve.png)
+
+![Hello Laravel Homepage](screenshots/hello-laravel-homepage.png)
+
+##
 
 ## License
 
